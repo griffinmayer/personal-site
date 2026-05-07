@@ -47,3 +47,6 @@ next-env.d.ts
 *.pdf
 
 .vercel
+
+# playwright screenshots
+.playwright-mcp/
